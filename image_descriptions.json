@@ -1,23 +1,27 @@
 [
   {
-    "image_id": "img_2242",
-    "description": "Lush wooded lot provides natural privacy and serene surroundings"
+    "image_id": "img_2268",
+    "description": "Manicured front lawn and curved walkway lead to welcoming entrance"
+  },
+  {
+    "image_id": "img_2250",
+    "description": "Elegant Craftsman exterior with stone accents and covered front porch"
   },
   {
     "image_id": "img_2243",
     "description": "Gray Craftsman-style exterior with covered front porch and wooded surroundings"
   },
   {
-    "image_id": "img_2247",
-    "description": "Flowering landscaping and decorative painted rocks at corner garden bed"
+    "image_id": "img_2278",
+    "description": "Classic stone facade with welcoming front porch and white columns"
+  },
+  {
+    "image_id": "img_2279",
+    "description": "Classic Craftsman exterior with stone accents and inviting front porch"
   },
   {
     "image_id": "img_2248",
     "description": "Welcoming front entrance with mature landscaping and pink flowering shrubs"
-  },
-  {
-    "image_id": "img_2250",
-    "description": "Elegant Craftsman exterior with stone accents and covered front porch"
   },
   {
     "image_id": "img_2251",
@@ -36,32 +40,180 @@
     "description": "Elegant front entry with Craftsman door and custom sidelights"
   },
   {
-    "image_id": "img_2255",
-    "description": "Spacious backyard with mature trees and manicured lawn"
+    "image_id": "img_3338",
+    "description": "Welcoming entryway with dark hardwood floors and open sightlines throughout"
   },
   {
-    "image_id": "img_2259",
-    "description": "Grapevines flourishing on the wooded property throughout the seasons"
+    "image_id": "img_3337",
+    "description": "Open-concept living area with hardwood floors and natural light throughout"
   },
   {
-    "image_id": "img_2260",
-    "description": "Secure metal fencing with gate opening to wooded backyard"
+    "image_id": "img_3360",
+    "description": "Bright hallway with gleaming hardwood floors leads to open living area"
   },
   {
-    "image_id": "img_2262",
-    "description": "Vibrant rose blooms throughout the mature landscaping on the wooded lot"
+    "image_id": "img_3344",
+    "description": "Open dining room with coffered ceiling and views to front entry"
   },
   {
-    "image_id": "img_2263",
-    "description": "Ornamental grasses and vibrant roses frame the wooded garden perimeter"
+    "image_id": "img_3340",
+    "description": "Spacious dining room with seating for ten and modern pendant lighting"
   },
   {
-    "image_id": "img_2265",
-    "description": "Poolside patio with cantilever umbrella and lounge chairs for relaxing"
+    "image_id": "img_3342",
+    "description": "Open dining area with modern chandelier overlooking the bright living space"
   },
   {
-    "image_id": "img_2268",
-    "description": "Manicured front lawn and curved walkway lead to welcoming entrance"
+    "image_id": "img_3343",
+    "description": "Spacious dining room with seating for ten and abundant natural light"
+  },
+  {
+    "image_id": "img_3341",
+    "description": "Open dining area flows into living room with stone fireplace"
+  },
+  {
+    "image_id": "img_3336",
+    "description": "Open-concept dining and living area with hardwood floors and natural light"
+  },
+  {
+    "image_id": "img_3339",
+    "description": "Open-concept dining and living space with hardwood floors and natural light"
+  },
+  {
+    "image_id": "img_3345",
+    "description": "Stone fireplace with built-in mantel creates cozy living room focal point"
+  },
+  {
+    "image_id": "img_3362",
+    "description": "Open-concept kitchen island overlooks living room with stone fireplace"
+  },
+  {
+    "image_id": "img_3346",
+    "description": "Grand piano beside stacked stone fireplace in living room"
+  },
+  {
+    "image_id": "img_3363",
+    "description": "Bright living room with grand piano and stacked stone fireplace wall"
+  },
+  {
+    "image_id": "img_3356",
+    "description": "Open-concept living room with stone fireplace and grand piano"
+  },
+  {
+    "image_id": "img_3364",
+    "description": "Grand piano and modern furnishings frame scenic wooded views"
+  },
+  {
+    "image_id": "img_3365",
+    "description": "Grand piano and forest views from the sunlit living room"
+  },
+  {
+    "image_id": "img_3347",
+    "description": "Open-concept living room with forest views and grand piano"
+  },
+  {
+    "image_id": "img_3349",
+    "description": "Minimalist sectional sofa frames tranquil wooded views through oversized windows"
+  },
+  {
+    "image_id": "img_3348",
+    "description": "Open-concept living room with modern kitchen and pool views"
+  },
+  {
+    "image_id": "img_3350",
+    "description": "Modern kitchen island with granite countertops and seating for three"
+  },
+  {
+    "image_id": "img_3355",
+    "description": "Modern kitchen with granite countertops and stainless steel appliances"
+  },
+  {
+    "image_id": "img_3359",
+    "description": "Spacious kitchen island with granite countertops and modern pendant lighting"
+  },
+  {
+    "image_id": "img_3366",
+    "description": "Granite island with seating overlooks modern kitchen with dark cabinetry"
+  },
+  {
+    "image_id": "img_3357",
+    "description": "Open-concept kitchen and living area with granite island and modern finishes"
+  },
+  {
+    "image_id": "img_3358",
+    "description": "Open-concept kitchen and living area with granite island seating"
+  },
+  {
+    "image_id": "img_3361",
+    "description": "Open-concept kitchen and living space with gleaming granite countertops"
+  },
+  {
+    "image_id": "img_3335",
+    "description": "Premium espresso machine and modern appliances in the gourmet kitchen"
+  },
+  {
+    "image_id": "img_3367",
+    "description": "Granite countertops and built-in charging station in kitchen workspace"
+  },
+  {
+    "image_id": "img_3368",
+    "description": "Convenient beverage station with granite counters and modern dark cabinetry"
+  },
+  {
+    "image_id": "img_3351",
+    "description": "Open-concept kitchen and living area with serene wooded views"
+  },
+  {
+    "image_id": "img_3352",
+    "description": "Open-concept kitchen and living area with abundant natural light"
+  },
+  {
+    "image_id": "img_3353",
+    "description": "Open-concept kitchen and living area with stone fireplace and natural light"
+  },
+  {
+    "image_id": "img_3354",
+    "description": "Open-concept kitchen and living room with stone fireplace and natural light"
+  },
+  {
+    "image_id": "img_3443",
+    "description": "Main-level game room with desk, bean bag seating, and geometric rug"
+  },
+  {
+    "image_id": "img_3444",
+    "description": "Game room with pullout daybed sofa and vibrant geometric rug"
+  },
+  {
+    "image_id": "img_3445",
+    "description": "Game room workspace with sleek desk setup and comfortable lounge seating"
+  },
+  {
+    "image_id": "img_3446",
+    "description": "Game room entertainment center with large TV and standing desk workspace"
+  },
+  {
+    "image_id": "img_3447",
+    "description": "Entertainment center and workspace in the main-level game room"
+  },
+  {
+    "image_id": "img_3448",
+    "description": "Dedicated workspace with dual monitors and modern desk in game room"
+  },
+  {
+    "image_id": "img_3449",
+    "description": "Game room window with peaceful views of the neighborhood"
+  },
+  {
+    "image_id": "img_3450",
+    "description": "Game room lounge with pullout daybed and world map decor"
+  },
+  {
+    "image_id": "img_3451",
+    "description": "Comfortable game room with pullout daybed and bean bag seating"
+  },
+  {
+    "image_id": "img_3452",
+    "description": "Game room with geometric rug, sectional seating, and entertainment setup"
   },
   {
     "image_id": "img_2272",
@@ -76,36 +228,16 @@
     "description": "Screened porch overlooking pool and wooded backyard at dusk"
   },
   {
-    "image_id": "img_2278",
-    "description": "Classic stone facade with welcoming front porch and white columns"
+    "image_id": "img_2304",
+    "description": "Modern deck with cable railing overlooking private stone patio and landscaped yard"
   },
   {
-    "image_id": "img_2279",
-    "description": "Classic Craftsman exterior with stone accents and inviting front porch"
-  },
-  {
-    "image_id": "img_2281",
-    "description": "Pool filtration and heating system ensures year-round aquatic enjoyment"
+    "image_id": "img_2290",
+    "description": "Curved pool with hot tub overlooking wooded backyard oasis"
   },
   {
     "image_id": "img_2282",
     "description": "Kidney-shaped pool with hot tub and poolside basketball hoop"
-  },
-  {
-    "image_id": "img_2283",
-    "description": "Shaded poolside lounging area with pavers overlooking wooded backyard oasis"
-  },
-  {
-    "image_id": "img_2284",
-    "description": "Private patio seating area with umbrella shade and tiered stone planters"
-  },
-  {
-    "image_id": "img_2285",
-    "description": "Four lounge chairs surround fire pit on spacious stone patio"
-  },
-  {
-    "image_id": "img_2286",
-    "description": "Stone fire pit and lounge chairs on the expansive pool deck"
   },
   {
     "image_id": "img_2287",
@@ -118,26 +250,6 @@
   {
     "image_id": "img_2289",
     "description": "Pool and hot tub nestled in private wooded backyard setting"
-  },
-  {
-    "image_id": "img_2290",
-    "description": "Curved pool with hot tub overlooking wooded backyard oasis"
-  },
-  {
-    "image_id": "img_2291",
-    "description": "Pool deck with composite wood planking and screened enclosure"
-  },
-  {
-    "image_id": "img_2292",
-    "description": "Fresh tomatoes ripening on the vine by the kitchen window"
-  },
-  {
-    "image_id": "img_2301",
-    "description": "Multi-level stone patio with pool, hot tub, and covered seating areas"
-  },
-  {
-    "image_id": "img_2304",
-    "description": "Modern deck with cable railing overlooking private stone patio and landscaped yard"
   },
   {
     "image_id": "img_2306",
@@ -156,16 +268,68 @@
     "description": "Resort-style pool with built-in steps and paver stone deck"
   },
   {
-    "image_id": "img_2310",
-    "description": "Paver patio with fire pit, pool, and lounge seating"
-  },
-  {
     "image_id": "img_2314",
     "description": "Expansive paver patio with pool, hot tub, and wooded privacy"
   },
   {
+    "image_id": "img_2291",
+    "description": "Pool deck with composite wood planking and screened enclosure"
+  },
+  {
+    "image_id": "img_2301",
+    "description": "Multi-level stone patio with pool, hot tub, and covered seating areas"
+  },
+  {
+    "image_id": "img_2321",
+    "description": "Pool deck with curved stone paver patio and spacious backyard"
+  },
+  {
     "image_id": "img_2315",
     "description": "Pool deck with loungers overlooking the private wooded backyard"
+  },
+  {
+    "image_id": "img_2310",
+    "description": "Paver patio with fire pit, pool, and lounge seating"
+  },
+  {
+    "image_id": "img_2285",
+    "description": "Four lounge chairs surround fire pit on spacious stone patio"
+  },
+  {
+    "image_id": "img_2286",
+    "description": "Stone fire pit and lounge chairs on the expansive pool deck"
+  },
+  {
+    "image_id": "img_2265",
+    "description": "Poolside patio with cantilever umbrella and lounge chairs for relaxing"
+  },
+  {
+    "image_id": "img_2283",
+    "description": "Shaded poolside lounging area with pavers overlooking wooded backyard oasis"
+  },
+  {
+    "image_id": "img_2284",
+    "description": "Private patio seating area with umbrella shade and tiered stone planters"
+  },
+  {
+    "image_id": "img_2255",
+    "description": "Spacious backyard with mature trees and manicured lawn"
+  },
+  {
+    "image_id": "img_2324",
+    "description": "Expansive backyard with lush lawn, pool, and mature trees"
+  },
+  {
+    "image_id": "img_2322",
+    "description": "Wooded backyard with slackline setup between mature trees"
+  },
+  {
+    "image_id": "img_2326",
+    "description": "Spacious backyard with swing set and mature wooded privacy"
+  },
+  {
+    "image_id": "img_2327",
+    "description": "Spacious backyard with geodesic dome play structure and wooded privacy"
   },
   {
     "image_id": "img_2316",
@@ -188,160 +352,32 @@
     "description": "Fenced chicken coop nestled in the wooded backyard area"
   },
   {
-    "image_id": "img_2321",
-    "description": "Pool deck with curved stone paver patio and spacious backyard"
+    "image_id": "img_2247",
+    "description": "Flowering landscaping and decorative painted rocks at corner garden bed"
   },
   {
-    "image_id": "img_2322",
-    "description": "Wooded backyard with slackline setup between mature trees"
+    "image_id": "img_2262",
+    "description": "Vibrant rose blooms throughout the mature landscaping on the wooded lot"
   },
   {
-    "image_id": "img_2324",
-    "description": "Expansive backyard with lush lawn, pool, and mature trees"
+    "image_id": "img_2263",
+    "description": "Ornamental grasses and vibrant roses frame the wooded garden perimeter"
   },
   {
-    "image_id": "img_2326",
-    "description": "Spacious backyard with swing set and mature wooded privacy"
+    "image_id": "img_2259",
+    "description": "Grapevines flourishing on the wooded property throughout the seasons"
   },
   {
-    "image_id": "img_2327",
-    "description": "Spacious backyard with geodesic dome play structure and wooded privacy"
+    "image_id": "img_2292",
+    "description": "Fresh tomatoes ripening on the vine by the kitchen window"
   },
   {
-    "image_id": "img_3335",
-    "description": "Premium espresso machine and modern appliances in the gourmet kitchen"
+    "image_id": "img_2242",
+    "description": "Lush wooded lot provides natural privacy and serene surroundings"
   },
   {
-    "image_id": "img_3336",
-    "description": "Open-concept dining and living area with hardwood floors and natural light"
-  },
-  {
-    "image_id": "img_3337",
-    "description": "Open-concept living area with hardwood floors and natural light throughout"
-  },
-  {
-    "image_id": "img_3338",
-    "description": "Welcoming entryway with dark hardwood floors and open sightlines throughout"
-  },
-  {
-    "image_id": "img_3339",
-    "description": "Open-concept dining and living space with hardwood floors and natural light"
-  },
-  {
-    "image_id": "img_3340",
-    "description": "Spacious dining room with seating for ten and modern pendant lighting"
-  },
-  {
-    "image_id": "img_3341",
-    "description": "Open dining area flows into living room with stone fireplace"
-  },
-  {
-    "image_id": "img_3342",
-    "description": "Open dining area with modern chandelier overlooking the bright living space"
-  },
-  {
-    "image_id": "img_3343",
-    "description": "Spacious dining room with seating for ten and abundant natural light"
-  },
-  {
-    "image_id": "img_3344",
-    "description": "Open dining room with coffered ceiling and views to front entry"
-  },
-  {
-    "image_id": "img_3345",
-    "description": "Stone fireplace with built-in mantel creates cozy living room focal point"
-  },
-  {
-    "image_id": "img_3346",
-    "description": "Grand piano beside stacked stone fireplace in living room"
-  },
-  {
-    "image_id": "img_3347",
-    "description": "Open-concept living room with forest views and grand piano"
-  },
-  {
-    "image_id": "img_3348",
-    "description": "Open-concept living room with modern kitchen and pool views"
-  },
-  {
-    "image_id": "img_3349",
-    "description": "Minimalist sectional sofa frames tranquil wooded views through oversized windows"
-  },
-  {
-    "image_id": "img_3350",
-    "description": "Modern kitchen island with granite countertops and seating for three"
-  },
-  {
-    "image_id": "img_3351",
-    "description": "Open-concept kitchen and living area with serene wooded views"
-  },
-  {
-    "image_id": "img_3352",
-    "description": "Open-concept kitchen and living area with abundant natural light"
-  },
-  {
-    "image_id": "img_3353",
-    "description": "Open-concept kitchen and living area with stone fireplace and natural light"
-  },
-  {
-    "image_id": "img_3354",
-    "description": "Open-concept kitchen and living room with stone fireplace and natural light"
-  },
-  {
-    "image_id": "img_3355",
-    "description": "Modern kitchen with granite countertops and stainless steel appliances"
-  },
-  {
-    "image_id": "img_3356",
-    "description": "Open-concept living room with stone fireplace and grand piano"
-  },
-  {
-    "image_id": "img_3357",
-    "description": "Open-concept kitchen and living area with granite island and modern finishes"
-  },
-  {
-    "image_id": "img_3358",
-    "description": "Open-concept kitchen and living area with granite island seating"
-  },
-  {
-    "image_id": "img_3359",
-    "description": "Spacious kitchen island with granite countertops and modern pendant lighting"
-  },
-  {
-    "image_id": "img_3360",
-    "description": "Bright hallway with gleaming hardwood floors leads to open living area"
-  },
-  {
-    "image_id": "img_3361",
-    "description": "Open-concept kitchen and living space with gleaming granite countertops"
-  },
-  {
-    "image_id": "img_3362",
-    "description": "Open-concept kitchen island overlooks living room with stone fireplace"
-  },
-  {
-    "image_id": "img_3363",
-    "description": "Bright living room with grand piano and stacked stone fireplace wall"
-  },
-  {
-    "image_id": "img_3364",
-    "description": "Grand piano and modern furnishings frame scenic wooded views"
-  },
-  {
-    "image_id": "img_3365",
-    "description": "Grand piano and forest views from the sunlit living room"
-  },
-  {
-    "image_id": "img_3366",
-    "description": "Granite island with seating overlooks modern kitchen with dark cabinetry"
-  },
-  {
-    "image_id": "img_3367",
-    "description": "Granite countertops and built-in charging station in kitchen workspace"
-  },
-  {
-    "image_id": "img_3368",
-    "description": "Convenient beverage station with granite counters and modern dark cabinetry"
+    "image_id": "img_2260",
+    "description": "Secure metal fencing with gate opening to wooded backyard"
   },
   {
     "image_id": "img_3410",
@@ -396,6 +432,18 @@
     "description": "Rock climbing wall with varied holds for outdoor recreation"
   },
   {
+    "image_id": "img_3427",
+    "description": "Home gym with power rack and climbing wall in garage workout space"
+  },
+  {
+    "image_id": "img_3429",
+    "description": "Home gym with professional-grade equipment and custom climbing wall"
+  },
+  {
+    "image_id": "img_3432",
+    "description": "Private home gym with climbing wall and professional fitness equipment"
+  },
+  {
     "image_id": "img_3423",
     "description": "Concept2 rowing machine in the home fitness area"
   },
@@ -412,63 +460,15 @@
     "description": "Private home gym with weights and exercise equipment"
   },
   {
-    "image_id": "img_3427",
-    "description": "Home gym with power rack and climbing wall in garage workout space"
-  },
-  {
     "image_id": "img_3428",
     "description": "Home gym with professional-grade weights for your fitness routine"
-  },
-  {
-    "image_id": "img_3429",
-    "description": "Home gym with professional-grade equipment and custom climbing wall"
   },
   {
     "image_id": "img_3430",
     "description": "Fully equipped home gym with medicine balls and workout equipment"
   },
   {
-    "image_id": "img_3432",
-    "description": "Private home gym with climbing wall and professional fitness equipment"
-  },
-  {
-    "image_id": "img_3443",
-    "description": "Modern home office with geometric rug and navy bean bag seating"
-  },
-  {
-    "image_id": "img_3444",
-    "description": "Modern home office with sleeper sofa and vibrant geometric rug"
-  },
-  {
-    "image_id": "img_3445",
-    "description": "Modern home office with sleek desk setup and comfortable lounge seating"
-  },
-  {
-    "image_id": "img_3446",
-    "description": "Modern entertainment room with large TV and standing desk workspace"
-  },
-  {
-    "image_id": "img_3447",
-    "description": "Entertainment center and workspace in the modern home office"
-  },
-  {
-    "image_id": "img_3448",
-    "description": "Dedicated home office workspace with dual monitors and modern desk"
-  },
-  {
-    "image_id": "img_3449",
-    "description": "Bedroom window offers peaceful views of neighboring homes and landscaping"
-  },
-  {
-    "image_id": "img_3450",
-    "description": "Comfortable basement lounge with sleeper sofa and world map decor"
-  },
-  {
-    "image_id": "img_3451",
-    "description": "Comfortable media room with sleeper sofa and bean bag seating"
-  },
-  {
-    "image_id": "img_3452",
-    "description": "Modern entertainment room with geometric rug and sectional seating"
+    "image_id": "img_2281",
+    "description": "Pool filtration and heating system ensures year-round aquatic enjoyment"
   }
 ]
