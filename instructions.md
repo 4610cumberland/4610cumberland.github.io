@@ -28,13 +28,19 @@ Photos are sequenced as a walk-through of the property:
 4. **Kitchen** — island, appliances, details, views into living area
 5. **Living Room** — fireplace, piano, views, seating
 6. **Game/Media Room** — wide shot, TV/workspace, dual monitors
-7. **Screened Porch & Deck** — covered deck, screened porch, railing/patio view
-8. **Pool & Patio** — pool overview, waterfall, hot tub, fire pit, lounging
-9. **Yard, Gardens & Chickens** — lawn, swing set, coop, flowers, garden, wooded lot
-10. **Trails** — wooded path, stone borders
-11. **Recreation** — basketball, ping pong
-12. **Garage Gym** — climbing wall, power rack, rower, weights
-13. **Pool Equipment** — filtration/heating (last, utilitarian)
+7. **Primary Bedroom** — double-door entrance, king bed, sitting area
+8. **Primary Bathroom** — en suite with tub, shower, dual vanity
+9. **Guest Bedrooms** — teen room, kid's room, playroom
+10. **Hallway Bathrooms** — dual-sink bath, tropical-curtain bath
+11. **Lower Level** — family room, office/den (two angles)
+12. **Mudroom & Laundry** — office nook, laundry room
+13. **Screened Porch & Deck** — covered deck, screened porch, railing/patio view
+14. **Pool & Patio** — pool overview, waterfall, hot tub, fire pit, lounging
+15. **Yard, Gardens & Chickens** — lawn, swing set, coop, flowers, garden, wooded lot
+16. **Trails** — wooded path, stone borders
+17. **Recreation** — basketball, ping pong
+18. **Garage Gym** — climbing wall, power rack, rower, weights
+19. **Pool Equipment** — filtration/heating (last, utilitarian)
 
 When adding new photos, slot them into the appropriate section and maintain this flow.
 
@@ -61,16 +67,12 @@ When adding new photos, slot them into the appropriate section and maintain this
 - **Target ~3–7 photos per section.** More for visually rich areas (pool/patio), fewer for simple spaces (entry, trails).
 - **No near-duplicates.** If two shots have the same subject from a similar angle, keep the better one.
 - **Every photo should earn its spot.** Each image should show something the others don't — a different room, angle, detail, or time of day.
-- **Current gallery: 48 photos.** When adding rooms not yet photographed (bedrooms, bathrooms, laundry, etc.), the total will grow but should stay curated — aim for quality over quantity.
+- **Current gallery: 62 photos.** Keep curated — aim for quality over quantity.
 
 ## Rooms Not Yet in Gallery
 
 These areas need photos added in future sessions:
 
-- Primary bedroom + en suite bathroom
-- Guest bedrooms (4)
-- Hallway bathrooms (2)
-- Laundry room
-- Mudroom
+- Guest bedrooms (2 of 4 photographed)
 - Garage (full view, not just gym corner)
 - Basement/storage (if applicable)
