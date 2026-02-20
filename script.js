@@ -25,6 +25,13 @@
 
   // ---- Load Gallery ----
   async function loadGallery() {
+    // Use inline data if available (works with file:// protocol),
+    // otherwise fetch the JSON file (works on HTTP servers)
+    if (window.galleryImages) {
+      images = window.galleryImages;
+      renderGallery();
+      return;
+    }
     try {
       const response = await fetch('image_descriptions.json');
       images = await response.json();

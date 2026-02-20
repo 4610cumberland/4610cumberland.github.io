@@ -4,7 +4,8 @@
 
 The gallery is driven entirely by `image_descriptions.json`. No HTML changes needed when adding or removing photos.
 
-- `script.js` fetches `image_descriptions.json` at page load and renders each entry as a gallery tile with lightbox support.
+- `script.js` reads gallery data from `window.galleryImages` (inlined in `index.html`) and renders each entry as a gallery tile with lightbox support. Falls back to fetching `image_descriptions.json` if the inline data is absent.
+- **When updating gallery content, update both `image_descriptions.json` and the inline `window.galleryImages` array in `index.html`.** The JSON file is the source of truth; keep them in sync.
 - Image files live in `images/` as `{image_id}.jpg`.
 - Order in the JSON = order on the page. The lightbox counter reflects the total automatically.
 - Raw originals are archived in `raw/` and never served to visitors.
