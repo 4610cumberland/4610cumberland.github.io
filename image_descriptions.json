@@ -20,10 +20,6 @@
     "description": "Welcoming entryway with dark hardwood floors and open sightlines throughout"
   },
   {
-    "image_id": "img_3360",
-    "description": "Bright hallway with gleaming hardwood floors leads to open living area"
-  },
-  {
     "image_id": "img_3344",
     "description": "Open dining room with coffered ceiling and views to front entry"
   },
@@ -34,6 +30,22 @@
   {
     "image_id": "img_3341",
     "description": "Open dining area flows into living room with stone fireplace"
+  },
+  {
+    "image_id": "img_3345",
+    "description": "Stone fireplace with built-in mantel creates cozy living room focal point"
+  },
+  {
+    "image_id": "img_3346",
+    "description": "Grand piano beside stacked stone fireplace in living room"
+  },
+  {
+    "image_id": "img_3364",
+    "description": "Grand piano and modern furnishings frame scenic wooded views"
+  },
+  {
+    "image_id": "img_3349",
+    "description": "Minimalist sectional sofa frames tranquil wooded views through oversized windows"
   },
   {
     "image_id": "img_3350",
@@ -56,20 +68,12 @@
     "description": "Open-concept kitchen and living area with stone fireplace and natural light"
   },
   {
-    "image_id": "img_3345",
-    "description": "Stone fireplace with built-in mantel creates cozy living room focal point"
+    "image_id": "img_3360",
+    "description": "Bright hallway with gleaming hardwood floors leads to open living area"
   },
   {
-    "image_id": "img_3346",
-    "description": "Grand piano beside stacked stone fireplace in living room"
-  },
-  {
-    "image_id": "img_3364",
-    "description": "Grand piano and modern furnishings frame scenic wooded views"
-  },
-  {
-    "image_id": "img_3349",
-    "description": "Minimalist sectional sofa frames tranquil wooded views through oversized windows"
+    "image_id": "img_7776",
+    "description": "Hallway bathroom with dual sinks and sunset-wave shower curtain"
   },
   {
     "image_id": "img_3443",
@@ -82,6 +86,50 @@
   {
     "image_id": "img_3448",
     "description": "Dedicated workspace with dual monitors and modern desk in game room"
+  },
+  {
+    "image_id": "img_7789",
+    "description": "Mudroom office nook with beadboard wainscoting, coat hooks, and L-shaped desk"
+  },
+  {
+    "image_id": "img_7769",
+    "description": "Lower-level family room with sectional sofa and family photo gallery wall"
+  },
+  {
+    "image_id": "img_7771",
+    "description": "Guest bedroom with bookshelf, guitars, and sputnik light fixture"
+  },
+  {
+    "image_id": "img_7764",
+    "description": "Guest bedroom with soft teal walls and feather pendant chandelier"
+  },
+  {
+    "image_id": "img_7773",
+    "description": "Playroom with modular couch, play kitchen, and stuffed animal collection"
+  },
+  {
+    "image_id": "img_7788",
+    "description": "Guest bathroom with tropical leaf shower curtain and warm wood vanity"
+  },
+  {
+    "image_id": "img_7786",
+    "description": "Laundry room with Samsung front-load washer, dryer, and utility sink"
+  },
+  {
+    "image_id": "img_7779",
+    "description": "Double-door entrance to the primary suite with vaulted ceiling beyond"
+  },
+  {
+    "image_id": "img_7781",
+    "description": "Primary bedroom with king bed, sputnik chandelier, and vaulted ceiling"
+  },
+  {
+    "image_id": "img_7785",
+    "description": "Purple velvet chaise and wooded views in the primary suite sitting area"
+  },
+  {
+    "image_id": "img_7777",
+    "description": "Primary en suite with soaking tub, glass shower, and dual vanity"
   },
   {
     "image_id": "img_2272",
@@ -186,9 +234,5 @@
   {
     "image_id": "img_3425",
     "description": "Garage gym with kettlebells, dumbbells, and medicine balls"
-  },
-  {
-    "image_id": "img_2281",
-    "description": "Pool filtration and heating system ensures year-round aquatic enjoyment"
   }
 ]

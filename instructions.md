@@ -1,0 +1,79 @@
+# 4610 Cumberland — Site Instructions
+
+## How the Gallery Works
+
+The gallery is driven entirely by `image_descriptions.json`. No HTML changes needed when adding or removing photos.
+
+- `script.js` reads gallery data from `window.galleryImages` (inlined in `index.html`) and renders each entry as a gallery tile with lightbox support. Falls back to fetching `image_descriptions.json` if the inline data is absent.
+- **When updating gallery content, update both `image_descriptions.json` and the inline `window.galleryImages` array in `index.html`.** The JSON file is the source of truth; keep them in sync.
+- Image files live in `images/` as `{image_id}.jpg`.
+- Order in the JSON = order on the page. The lightbox counter reflects the total automatically.
+- Raw originals are archived in `raw/` and never served to visitors.
+
+### Special Images (hardcoded in index.html)
+
+| Role | Image | Location |
+|------|-------|----------|
+| Hero | `img_2250` | `<header class="hero">` — primary facade |
+| Feature break | `img_2275` | `<section class="feature-break">` — screened porch at dusk |
+
+If either of these is replaced, update the `src` in `index.html` as well.
+
+## Gallery Tour Order
+
+Photos are sequenced as a walk-through of the property:
+
+1. **Exterior** — facade, entrance, porch, front door
+2. **Entry** — entryway, hallway
+3. **Dining** — coffered ceiling, table, flow into living room
+4. **Kitchen** — island, appliances, details, views into living area
+5. **Living Room** — fireplace, piano, views, seating
+6. **Game/Media Room** — wide shot, TV/workspace, dual monitors
+7. **Primary Bedroom** — double-door entrance, king bed, sitting area
+8. **Primary Bathroom** — en suite with tub, shower, dual vanity
+9. **Guest Bedrooms** — teen room, kid's room, playroom
+10. **Hallway Bathrooms** — dual-sink bath, tropical-curtain bath
+11. **Lower Level** — family room, office/den (two angles)
+12. **Mudroom & Laundry** — office nook, laundry room
+13. **Screened Porch & Deck** — covered deck, screened porch, railing/patio view
+14. **Pool & Patio** — pool overview, waterfall, hot tub, fire pit, lounging
+15. **Yard, Gardens & Chickens** — lawn, swing set, coop, flowers, garden, wooded lot
+16. **Trails** — wooded path, stone borders
+17. **Recreation** — basketball, ping pong
+18. **Garage Gym** — climbing wall, power rack, rower, weights
+19. **Pool Equipment** — filtration/heating (last, utilitarian)
+
+When adding new photos, slot them into the appropriate section and maintain this flow.
+
+## Adding New Photos
+
+1. Place the raw original in `raw/`.
+2. Create a web-optimized `.jpg` in `images/` named `img_XXXX.jpg` (matching the original's number).
+3. Add a JSON entry in `image_descriptions.json` at the correct position in tour order.
+4. Each entry: `{ "image_id": "img_XXXX", "description": "..." }`
+
+## Description Conventions
+
+- **Be specific, not generic.** Describe what's actually visible, not filler.
+- **Name rooms accurately:**
+  - The fitness area in the garage is the **"garage gym"** (not "home gym," "home fitness area," or "recreation room").
+  - Use "game room" for the main-level media/game room.
+  - Use "screened porch" (not "sunroom" or "enclosed patio").
+- **Differentiate similar shots.** If two photos show the same area, each description should highlight what makes that angle distinct (e.g., one emphasizes the waterfall feature, another emphasizes the paver patio).
+- **No redundant adjectives.** Skip "beautiful," "stunning," "amazing." Describe the subject matter.
+- Keep descriptions to one sentence, roughly 8–15 words.
+
+## Curation Rules
+
+- **Target ~3–7 photos per section.** More for visually rich areas (pool/patio), fewer for simple spaces (entry, trails).
+- **No near-duplicates.** If two shots have the same subject from a similar angle, keep the better one.
+- **Every photo should earn its spot.** Each image should show something the others don't — a different room, angle, detail, or time of day.
+- **Current gallery: 62 photos.** Keep curated — aim for quality over quantity.
+
+## Rooms Not Yet in Gallery
+
+These areas need photos added in future sessions:
+
+- Guest bedrooms (2 of 4 photographed)
+- Garage (full view, not just gym corner)
+- Basement/storage (if applicable)
